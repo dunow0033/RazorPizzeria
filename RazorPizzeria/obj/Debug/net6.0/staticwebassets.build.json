@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3S+4oONbqWTnncgsY+T6Pf8dZinDjs1229Q1ic5/kkQ=",
+  "Hash": "ydE9iZyfT1QO+fZrk0CJ5nCIcvvWdASy8+YJPrQTkPc=",
   "Source": "RazorPizzeria",
   "BasePath": "_content/RazorPizzeria",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\bedon\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\images\\Pizzas\\Create.png",
+      "SourceId": "RazorPizzeria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bedon\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\",
+      "BasePath": "_content/RazorPizzeria",
+      "RelativePath": "images/Pizzas/Create.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Create.png"
     },
     {
       "Identity": "C:\\Users\\bedon\\source\\repos\\RazorPizzeria\\RazorPizzeria\\wwwroot\\images\\PizzaTime.jpg",
